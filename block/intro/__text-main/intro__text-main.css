@@ -1,6 +1,6 @@
 .intro__text-main {
   margin-top: 32px;
-  width: 690px;
+  max-width: 690px;
   font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   font-weight: normal;

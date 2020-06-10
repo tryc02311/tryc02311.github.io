@@ -1,3 +1,19 @@
+@import url('./__place/places__place.css');
+
+@import url('./__title/places__title.css');
+
+@import url('./__image/places__image.css');
+
+@import url('./__website/places__website.css');
+
+@import url('./__website-link/places__website-link.css');
+
+@import url('./__website-url-heading/places__website-url-heading.css');
+
+@import url('./__paragraphs/places__paragraphs.css');
+
+@import url('./__paragraph/places__paragraph.css');
+
 .places {
   max-width: 984px;
   margin: 80px auto;

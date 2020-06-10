@@ -11,8 +11,8 @@
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     .photo-grid {
-        min-width: 928px;
-        margin: 92px 48px;
+      min-width: 928px;
+      margin: 92px 48px;
     }
   }
 
