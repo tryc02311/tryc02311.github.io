@@ -4,7 +4,7 @@
 
 @import url('./__heading/place__heading.css');
 
-@import url('./__like-btn/place__like-btn.css');
+@import url('./__like-button/place__like-button.css');
 
 .place {
     margin-bottom: 21px;

@@ -2,7 +2,7 @@
 
 @import url('./__window/modal__window.css');
 
-@import url('./__close-btn/modal__close-btn.css');
+@import url('./__close-button/modal__close-button.css');
 
 @import url('./__heading/modal__heading.css');
 
@@ -10,7 +10,7 @@
 
 @import url('./__input/modal__input.css');
 
-@import url('./__save-btn/modal__save-btn.css');
+@import url('./__save-button/modal__save-button.css');
 
 .modal {
     position: fixed;

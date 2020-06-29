@@ -1,8 +1,7 @@
-.profile__edit-btn {
+.profile__edit-button {
     position: absolute;
     top: 0;
     right: 0;
-    /* margin: auto; */
     margin-top: 20px;
     margin-left: 24px;
     padding: 0;
@@ -17,7 +16,7 @@
 }
 
 @media screen and (min-width: 300px) and (max-width: 575px) {
-    .profile__edit-btn {
+    .profile__edit-button {
         right: 15px;
         margin: 20px auto;
         width: 18px;
